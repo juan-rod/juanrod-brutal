@@ -2,6 +2,8 @@
 
 > personal site
 
+<img width="1276" alt="screen shot 2018-02-05 at 9 37 25 pm" src="https://user-images.githubusercontent.com/6327260/35840779-e886cfbe-0abd-11e8-9b40-eff78eaa01cc.png">
+
 ## Build Setup
 
 ``` bash
